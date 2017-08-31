@@ -9,7 +9,7 @@
 Experiment 5 comprised pressing a response key when a high-pitched tone was heard, following a rhythmic precursor sequence of noise bursts whose overall duration was relatively unpredictable. Thus experiment 5 was a simple detection task making minimal demands on memory and cognitive processing. If participants' RTs are affected by IOI variance it will imply that the findings of experiments 1 to 4 were caused by processes that are relatively general to perception-action tasks. If an effect of IOI variance is not found, it will suggest that the findings of experiments 1 to 4 are specific to complex decision making.
 
 It was hypothesised that IOI variance would affect response times in ways similar to that of experiments 1 to 4, and that the duration of the rhythmic sequence used on each trial would interact with effects of IOI variance on response.
-The latter is compatible with attentional entrainment models (see section \ref{aems}) and implies that prolonged exposure towards a rhythmic sequence is required in order for its statistical qualities to influence response.
+The latter is compatible with attentional entrainment models and implies that prolonged exposure towards a rhythmic sequence is required in order for its statistical qualities to influence response.
 
 # Requirements:
 
