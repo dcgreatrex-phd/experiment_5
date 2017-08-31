@@ -1,4 +1,4 @@
-function averaging_threshold(group, subNo)
+function temporal_variability(group, subNo)
 %------------------------------------------
 % AVERAGING_THRESHOLD - Command script. Run to start the experiment
 %------------------------------------------
